@@ -258,13 +258,12 @@ class Courses extends React.Component {
 						<li><a href='#/courses/html'>HTML</a></li>
 						<li><a href='#/courses/css'>CSS</a></li>
 						<li><a href='#/courses/javascript'>JavaScript</a></li>
+					</ul>			
+				</div>
+				<div>
+					<ul>
+						{CurrentList}
 					</ul>
-
-					<div>
-						<ul>
-							{CurrentList}
-						</ul>
-					</div>
 				</div>
 
 				{/* Write routes here... */}
