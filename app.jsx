@@ -265,8 +265,6 @@ class Courses extends React.Component {
 						{CurrentList}
 					</ul>
 				</div>
-
-				{/* Write routes here... */}
 			</div>
 		);
 	}
